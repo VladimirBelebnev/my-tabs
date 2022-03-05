@@ -2,9 +2,10 @@
 
 ### JS
 
-tabs({
     parentSelector: '',
+    
     tabSelector: '',  
+    
     contentSelector: '',  
-    activeClass: '',   
-});
+    
+    activeClass: ''  
