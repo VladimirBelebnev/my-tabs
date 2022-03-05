@@ -1,6 +1,5 @@
 # Tabs settings
 
-# JS
 parentSelector: '.parent',
     
 tabSelector: '.tab',  
