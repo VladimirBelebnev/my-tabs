@@ -1,10 +1,10 @@
 # Tabs settings
 
 # JS
-parentSelector: '',
+parentSelector: '.parent',
     
-tabSelector: '',  
+tabSelector: '.tab',  
     
-contentSelector: '',  
+contentSelector: '.content',  
     
-activeClass: ''  
+activeClass: 'class'  
