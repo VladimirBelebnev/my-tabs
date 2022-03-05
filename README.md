@@ -3,6 +3,7 @@
 ### JS
 
 tabs({
+
     parentSelector: '',
     
     tabSelector: '',
@@ -10,4 +11,5 @@ tabs({
     contentSelector: '',
     
     activeClass: '', 
+    
 });
