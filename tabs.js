@@ -1,4 +1,4 @@
-function tabs({parentSelector, tabSelector, contentSelector, activeClass }) {
+function tabs({parentSelector, tabSelector, contentSelector, activeClass}) {
     const header = document.querySelector(parentSelector),
         tab = document.querySelectorAll(tabSelector),
         content = document.querySelectorAll(contentSelector);
