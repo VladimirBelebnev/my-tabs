@@ -3,13 +3,8 @@
 ### JS
 
 tabs({
-
     parentSelector: '',
-    
-    tabSelector: '',
-    
-    contentSelector: '',
-    
-    activeClass: '', 
-    
+    tabSelector: '',  
+    contentSelector: '',  
+    activeClass: '',   
 });
