@@ -4,7 +4,10 @@
 
 tabs({
     parentSelector: '',
+    
     tabSelector: '',
+    
     contentSelector: '',
+    
     activeClass: '', 
 });
