@@ -1,12 +1,12 @@
 # Tabs settings
 
-parentSelector: '.parent',
+**parentSelector:** '.parent',
     
-tabSelector: '.tab',  
+**tabSelector:** '.tab',  
     
-contentSelector: '.content',  
+**contentSelector:** '.content',  
     
-activeClass: 'class'  
+**activeClass:** 'class'  
 
 
-### The style.css contains styles for animation.
+***The style.css contains styles for animation.***
