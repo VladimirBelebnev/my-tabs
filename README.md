@@ -31,8 +31,8 @@ These settings are suitable for the example given above in the NTTL structure. T
         });
     </script>
     
-1. parentSelector is the class selector of the parent of the tabs.
-2. tabSelector is a class of tabs themselves, after clicking on which the content changes.
-3. contentSelector is the tab content class.
-4. activeClass is the class that indicates the activity of a particular tab.
+1. **parentSelector** is the class selector of the parent of the tabs.
+2. **tabSelector** is a class of tabs themselves, after clicking on which the content changes.
+3. **contentSelector** is the tab content class.
+4. **activeClass** is the class that indicates the activity of a particular tab.
     
