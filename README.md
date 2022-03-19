@@ -1,4 +1,4 @@
-# Tabs settings
+# my-tabs
 
 This is a very simple script to implement tabs on your site. You just need to insert the necessary data and everything will work. It can be used for several tabs on one page, different in structure and content.
 
