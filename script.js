@@ -1,7 +1,7 @@
 import tabs from '/';
 
 tabs({
-    headerSelector: '',
+    parentSelector: '',
     tabSelector: '',
     contentSelector: '',
     activeClass: '',
