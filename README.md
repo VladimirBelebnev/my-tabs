@@ -1,4 +1,4 @@
-# my-tabs
+# my-tabs 📒
 
 This is a very simple script to implement tabs on your site. You just need to insert the necessary data and everything will work. It can be used for several tabs on one page, different in structure and content.
 
@@ -16,11 +16,11 @@ This is a very simple script to implement tabs on your site. You just need to in
     <div class="tab__content">3</div>
     <div class="tab__content">4</div>
     
-Ideal structure of the HTML code (class names can be changed). The style.css file has all the necessary classes + animation (it can be changed to any other).
+❗Ideal structure of the HTML code (class names can be changed). The style.css file has all the necessary classes + animation (it can be changed to any other).
 
 ### JS settings
 
-These settings are suitable for the example given above in the HTTL structure. The name of the classes can be changed, but the structure must be respected.
+👇These settings are suitable for the example given above in the HTTL structure. The name of the classes can be changed, but the structure must be respected.
 
     <script>
         tabs({
