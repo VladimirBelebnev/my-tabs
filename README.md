@@ -20,7 +20,7 @@ Ideal structure of the HTML code (class names can be changed). The style.css fil
 
 ### JS settings
 
-These settings are suitable for the example given above in the NTTL structure. The name of the classes can be changed, but the structure must be respected.
+These settings are suitable for the example given above in the HTTL structure. The name of the classes can be changed, but the structure must be respected.
 
     <script>
         tabs({
